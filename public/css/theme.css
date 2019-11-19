@@ -1,0 +1,35 @@
+@font-face {
+    src: url("../fonts/itc.otf");
+    font-family: 'ITC';
+}
+
+body {
+    font-family: 'ITC' !important;
+    background-image: url('../img/back_ground_mycardis.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-app {
+    background-color: #35ABE2 !important;
+}
+
+.border-app {
+    border-color: #35ABE2!important;
+}
+
+.bg-app-light {
+    background-color: #F7FBFE !important;
+}
+
+.border-1 {
+    border: 7px solid #F8B13D!important;
+}
+
+.border-2 {
+    border: 7px solid #77787B!important;
+}
+
+.border-3 {
+    border: 7px solid #35ABE2!important;
+}
